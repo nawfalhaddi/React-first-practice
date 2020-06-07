@@ -1,0 +1,22 @@
+body{
+    margin:0;
+}
+header {
+    background:#03a9f4;
+    text-align:center;
+}
+
+.logo {
+    color:#fff;
+    font-family:Anton;
+    text-align:center;
+}
+
+header input {
+    font-size: 20px;
+    margin: 20px 0px;
+}
+.new-item{
+    padding: 20px;
+    border-bottom: #34383a solid 1px;
+}
